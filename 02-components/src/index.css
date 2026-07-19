@@ -1,0 +1,43 @@
+*{
+  padding:0;
+  margin:0;
+
+}
+body,html{
+  height: 100%;
+  width:100%;
+ 
+}
+body{
+  background-color: black;
+}
+.Card{
+  background-color: pink;
+  border-radius: 10px;
+  margin:40px;
+  padding: 20px;
+
+}
+h1{
+  color:red;
+  margin-left:2rem ;
+}
+
+#Nav{
+  display: flex;
+  justify-content: flex-end;
+  border-radius: 10px;
+  gap:4rem;
+   padding: 15px 10px 15px 10px; 
+  background-color:pink;
+}
+
+header{
+ position:sticky;
+  display: flex;
+  margin-left:70%;
+  margin-bottom: 0%;
+}
+h5{
+  margin-right: 60px;
+}
